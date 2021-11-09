@@ -1,5 +1,3 @@
 # Class Roster Project
 
-Wednesday
-
-Contributed to by Jane Doe, Code Ninja, Brandon Britt
+Contributed to by Brandon Britt
